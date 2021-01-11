@@ -1,1 +1,3 @@
-# MA
+node_modules
+  .idea
+  .vscode
